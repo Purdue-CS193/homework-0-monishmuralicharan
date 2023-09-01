@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Monish Muralicharan's First CS193 Homework
+
+- I like that the teachers for CS 193 are TAs because they are more approachable and can explain things better to people closer our age.
+- I like the pace that CS 193 takes, it is very understable and not too quick.
+- I like that the bottom 4 project grades get dropped.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,7 +19,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bullet
 - List
 
 1. Numbered
